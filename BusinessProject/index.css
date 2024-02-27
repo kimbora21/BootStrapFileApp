@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Preahvihear&family=Suwannaphum:wght@100;300;400;700;900&display=swap');
+
+#menutitle{
+    color: black;;
+}
+.navbar{
+    background-color: antiquewhite;
+    
+}
